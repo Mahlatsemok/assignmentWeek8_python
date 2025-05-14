@@ -1,4 +1,4 @@
-🌍 # COVID-19 Global Data Tracker
+🌍 COVID-19 Global Data Tracker
 
 This project is a comprehensive COVID-19 Global Data Tracker that analyzes and visualizes key pandemic trends using data from Our World in Data. It highlights total cases, deaths, and vaccination progress across selected countries, helping to understand the
 
